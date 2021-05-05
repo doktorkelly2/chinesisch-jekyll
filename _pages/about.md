@@ -1,8 +1,23 @@
 ---
 permalink: /about/
-title: "About"
+title: "ÜBER MICH"
+author_profile: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Darf ich mich vorstellen?
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+![bio-photo](/assets/images/bio-photo.jpg)
+
+An der University of International Studies in Beijing habe ich Germanistik und Tourismus studiert.
+
+Anschließend habe ich mit verschiedenen Stipendien in Süd-Korea an der Yonsei University Koreanisch und an der Dankook University Linguistik bis zum Doktorstudium studiert.
+
+Schließlich kam ich der Liebe wegen nach Deutschland. Hier heiratete ich und promovierte an der Humboldt Universität zu Berlin. Die [Arbeit](https://www.peterlang.com/view/title/19430) wird diesen Herbst erscheinen.
+
+Seit meiner Zeit in Korea unterrichte ich die chinesische Sprache (dort erhielt ich u.a den „Best Teacher Award“).  Hier in Deutschland war ich Leiterin der Kursabteilung des Chinesischen Kulturzentrums Berlin und habe dort auch selbst regelmäßig unterrichtet.
+
+Außerdem verfüge ich über umfangreiche Erfahrungen als Dolmetscherin.
+
+Ich erfülle mir nun einen Herzenswunsch und mache mich als Sprachlehrerin, Übersetzerin und Autorin selbstständig.
+
+Ich freue mich schon, Sie bald kennen zu lernen!

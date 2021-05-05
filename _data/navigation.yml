@@ -1,9 +1,19 @@
 main:
+  - title: "FIRMEN"
+    url: /firmen/
+  - title: "SCHULEN"
+    url: /schulen/
+  - title: "ZUHAUSE"
+    url: /zuhause/
+  - title: "LINKS"
+    url: /links/
+  - title: "ÜBER MICH"
+    url: /about/
+  - title: "KONTAKT"
+    url: /contact/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
