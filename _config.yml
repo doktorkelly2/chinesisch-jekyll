@@ -11,6 +11,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+# url: "https://doktorkelly2.github.io"
+baseurl: "/chinesisch-lernen"
 
 # Build settings
 markdown: kramdown
