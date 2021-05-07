@@ -22,5 +22,5 @@ Ich erfülle mir nun einen Herzenswunsch und mache mich als Sprachlehrerin, Übe
 
 Ich freue mich schon, Sie bald kennen zu lernen!
 
-# references
+<!-- references -->
 [img-bio]: {{site.baseurl}}/assets/images/bio-photo.jpg

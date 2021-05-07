@@ -20,7 +20,7 @@ Nehmen Sie einfach Kontakt mit mir auf:
 
 Selbstverständlich biete ich auch Übersetzungs- und Dolmetscherdienste an.
 
-# link and image references:
+<!-- link and image references: -->
 [link-contact]: {{site.baseurl}}/contact/
 [img-firmen1]:  {{site.baseurl}}/assets/images/firmen-1-h200.jpg
 [img-firmen2]:  {{site.baseurl}}/assets/images/firmen-2-h200.jpg
