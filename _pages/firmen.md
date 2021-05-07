@@ -10,8 +10,10 @@ author_profile: false
 
 <!-- | <img src="/assets/images/firmen-1-h200.jpg" alt="firmen1"/> | <img src="/assets/images/firmen-2-h200.jpg" alt="firmen2"/> | <img src="/assets/images/firmen-3-h200.jpg" alt="firmen3"/> | -->
 
-| ![img1](/assets/images/firmen-1-h200.jpg) | ![img2](/assets/images/firmen-2-h200.jpg) | ![img3](/assets/images/firmen-3-h200.jpg) |
+<!-- | ![img1](/assets/images/orig/firmen-1.jpg){:height="200px"} | ![img2](/assets/images/orig/firmen-2.jpg){:height="200px"} | ![img3](/assets/images/orig/firmen-3.jpg){:height="200px"} | -->
 
+
+| ![img1](/assets/images/firmen-1-h200.jpg) | ![img2](/assets/images/firmen-2-h200.jpg) | ![img3](/assets/images/firmen-3-h200.jpg) |
 
 FIT FÜR CHINA
 
