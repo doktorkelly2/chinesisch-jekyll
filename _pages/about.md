@@ -6,7 +6,7 @@ author_profile: false
 
 Darf ich mich vorstellen?
 
-![bio-photo](/assets/images/bio-photo.jpg)
+![bio-photo][img-bio]
 
 An der University of International Studies in Beijing habe ich Germanistik und Tourismus studiert.
 
@@ -21,3 +21,6 @@ Außerdem verfüge ich über umfangreiche Erfahrungen als Dolmetscherin.
 Ich erfülle mir nun einen Herzenswunsch und mache mich als Sprachlehrerin, Übersetzerin und Autorin selbstständig.
 
 Ich freue mich schon, Sie bald kennen zu lernen!
+
+# references
+[img-bio]: {{site.baseurl}}/assets/images/bio-photo.jpg

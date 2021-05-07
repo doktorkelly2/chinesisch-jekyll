@@ -4,15 +4,6 @@ title: "FIRMEN"
 author_profile: false
 ---
 
-<!-- | <img src="/assets/images/orig/firmen-1.jpg" alt="firmen1" /> | <img src="/assets/images/orig/firmen-2.jpg" alt="firmen2"/> | <img src="/assets/images/orig/firmen-3.jpg" alt="firmen3"/> | -->
-
-<!-- | <img src="/assets/images/orig/firmen-1.jpg" alt="firmen1" style="height:200px;" /> | <img src="/assets/images/orig/firmen-2.jpg" alt="firmen2" style="height:200px;" /> | <img src="/assets/images/orig/firmen-3.jpg" alt="firmen3" style="height:200px;" /> | -->
-
-<!-- | <img src="/assets/images/firmen-1-h200.jpg" alt="firmen1"/> | <img src="/assets/images/firmen-2-h200.jpg" alt="firmen2"/> | <img src="/assets/images/firmen-3-h200.jpg" alt="firmen3"/> | -->
-
-<!-- | ![img1](/assets/images/orig/firmen-1.jpg){:height="200px"} | ![img2](/assets/images/orig/firmen-2.jpg){:height="200px"} | ![img3](/assets/images/orig/firmen-3.jpg){:height="200px"} | -->
-
-
 | ![firmen1][img-firmen1] | ![firmen2][img-firmen2] | ![firmen3][img-firmen3] |
 
 FIT FÜR CHINA
