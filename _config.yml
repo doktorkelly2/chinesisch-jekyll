@@ -9,16 +9,17 @@ description: >-
   Chinesisch Lernen in Berlin
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: contrast # default | air | aqua | contrast | dark | sunrise | mint | ...
+minimal_mistakes_skin: contrast # mint | air | aqua | contrast | dark | sunrise | mint | ...
 search: true
 # url: "https://doktorkelly2.github.io"
 # url: "https://chinesisch.fromstart.de"
 # baseurl: "/chinesisch-lernen"
 
 # Build settings
-markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+# theme: minimal-mistakes-jekyll
 # Outputting
+markdown: kramdown
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/

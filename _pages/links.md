@@ -18,9 +18,14 @@ Siehe auch [Blogeintrag][url-links3]
 
 Kleiner Einführungskurs Chinesisch
 
+{% include video id="jmuakouPkT0" provider="youtube" %}
+
 [Video auf Youtube][url-links4]
 
+
 BB Abendschau: Kochkurs in Chinesiches Kulturzentrum Berlin
+
+{% include video id="K08wsItSaGc" provider="youtube" %}
 
 [Viedo auf Youtube][url-links5]
 

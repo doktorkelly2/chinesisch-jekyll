@@ -7,7 +7,7 @@ published: true # false
 
 Darf ich mich vorstellen?
 
-![bio-photo][img-bio]
+![bio-photo][img-bio]{: .align-center}
 
 An der University of International Studies in Beijing habe ich Germanistik und Tourismus studiert.
 
