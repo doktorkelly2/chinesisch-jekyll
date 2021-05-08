@@ -32,6 +32,6 @@ Melden Sie sich einfach:
 
 <!-- link and image references: -->
 [link-contact]: {{site.baseurl}}/contact/
-[img-zuhause1]:  {{site.baseurl}}/assets/images/zuhause-1.jpg
-[img-zuhause2]:  {{site.baseurl}}/assets/images/zuhause-2.jpg
-[img-zuhause3]:  {{site.baseurl}}/assets/images/zuhause-3.jpg
+[img-zuhause1]: {{site.baseurl}}/assets/images/zuhause-1.jpg
+[img-zuhause2]: {{site.baseurl}}/assets/images/zuhause-2.jpg
+[img-zuhause3]: {{site.baseurl}}/assets/images/zuhause-3.jpg
