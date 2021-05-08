@@ -9,7 +9,7 @@ description: >-
   Chinesisch Lernen in Berlin
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast # default | air | aqua | contrast | dark | sunrise | mint | ...
 search: true
 # url: "https://doktorkelly2.github.io"
 # url: "https://chinesisch.fromstart.de"
@@ -82,7 +82,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -93,7 +93,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid

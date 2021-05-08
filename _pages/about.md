@@ -2,6 +2,7 @@
 permalink: /about/
 title: "ÜBER MICH"
 author_profile: false
+published: true # false
 ---
 
 Darf ich mich vorstellen?

@@ -2,14 +2,12 @@
 title: "Zhang Ailing und der Traum der roten Kammer"
 last_modified_at: 2016-01-01T00:00:00-00:00
 categories:
-  - Blog
+  - blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - literatur
+  - hongloumeng
+  - zhang ailing
 ---
-
-## Buchempfehlung
 
 Im Herbst 2016 ist mein Buch über “Die Schriftstellerin Zhang Aling und ihre Studien und Kommentare zum Roman Der Traum der roten Kammer” im Peter Lang Verlag erschienen:
 
